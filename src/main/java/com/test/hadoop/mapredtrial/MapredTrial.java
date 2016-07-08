@@ -1,4 +1,4 @@
-package com.accenture.hadoop.mapredtrial;
+package com.test.hadoop.mapredtrial;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
